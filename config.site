@@ -1,0 +1,4 @@
+dbuser: dbadmin
+dbname: mydb
+sgID: tbc
+awsRegion: ap-southeast-2
